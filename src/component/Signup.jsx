@@ -68,7 +68,7 @@ const SignupForm = () => {
         className="card shadow-lg p-4 mt-4"
         style={{ maxWidth: "600px", margin: "auto" }}
       >
-        <h2 className="text-center mb-4">Signup Form</h2>
+        <h2 className="text-center mb-4">Rappifuzz Signup Form</h2>
 
         <form onSubmit={handleSubmit}>
           <div className="mb-3">
